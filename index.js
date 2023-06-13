@@ -1,5 +1,3 @@
-// MTEwNTk1MTgzMzk0MTM2NDgzNw.GXyTQ9.C4zKBft8Ra-ixBcl1yD5fP-jFx4JoZwe4xxI-4
-
 // ==================================================================================== //
 
 const { DisTube } = require("distube");
